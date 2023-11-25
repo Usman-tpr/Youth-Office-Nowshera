@@ -1,0 +1,33 @@
+.hero_bg{
+    /* background-color: #045517; */
+    background-color: #9eb4cb;
+    height: 400px;
+}
+.hero_img{
+    margin-top: 23px;
+    width: 540px;
+}
+.custom_hero_title{
+    font-size:42px;
+    font-weight: 700;
+    font-style: normal;
+    color: #333333;
+}
+.custom_hero_subtitle{
+    color: #666666;
+}
+
+.icon:hover{
+    color: yellow;
+}
+
+@media (max-width: 767px) {
+
+    .hero_img{
+        display: none;
+    }
+    .custom_hero_title{
+        font-size: 35px;
+        margin-top: 40px;
+    }
+}
