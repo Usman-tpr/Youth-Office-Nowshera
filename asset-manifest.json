@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Youth-Office-Nowshera/static/css/main.ae2d2899.css",
+    "main.js": "/Youth-Office-Nowshera/static/js/main.544281f9.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Youth-Office-Nowshera/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/yonvideo.mp4": "/Youth-Office-Nowshera/static/media/yonvideo.20ec6f9af524023a5bc4.mp4",
+    "static/media/c_7.jpg": "/Youth-Office-Nowshera/static/media/c_7.a019afbaa935545e286c.jpg",
+    "static/media/c_2.jpg": "/Youth-Office-Nowshera/static/media/c_2.a2a4c499a6de547dca73.jpg",
+    "static/media/c_6.jpg": "/Youth-Office-Nowshera/static/media/c_6.44f8f4ac21e1533e3ed0.jpg",
+    "static/media/c_8.jpg": "/Youth-Office-Nowshera/static/media/c_8.98616a09b4dd4843459f.jpg",
+    "static/media/c_3.jpg": "/Youth-Office-Nowshera/static/media/c_3.62ecb4550a6036eba84b.jpg",
+    "static/media/c_9.jpg": "/Youth-Office-Nowshera/static/media/c_9.e4d074d7e8c669461b2e.jpg",
+    "static/media/Yan_Logo.jpg": "/Youth-Office-Nowshera/static/media/Yan_Logo.297acc59c3279cce53ef.jpg",
+    "static/media/c_5.jpg": "/Youth-Office-Nowshera/static/media/c_5.afe5f875b413fec5e022.jpg",
+    "index.html": "/Youth-Office-Nowshera/index.html",
+    "main.ae2d2899.css.map": "/Youth-Office-Nowshera/static/css/main.ae2d2899.css.map",
+    "main.544281f9.js.map": "/Youth-Office-Nowshera/static/js/main.544281f9.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Youth-Office-Nowshera/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae2d2899.css",
+    "static/js/main.544281f9.js"
+  ]
+}
